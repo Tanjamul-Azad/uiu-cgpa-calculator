@@ -1,0 +1,5 @@
+{
+  "name": "UIU CGPA Calculator",
+  "description": "A comprehensive CGPA calculator for students of United International University, designed to calculate trimester GPA and overall CGPA including retake courses.",
+  "requestFramePermissions": []
+}
